@@ -1,4 +1,7 @@
 # Anotações sobre o Curso
+Ambiente
+- ipython
+- virtualenv(venv)
 
 # Protocolos e Tipos de Dados
 
