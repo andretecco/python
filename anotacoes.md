@@ -6,6 +6,10 @@ Ambiente
 Links:
 - [PyFormat](https://pyformat.info/)
 
+Palavra Dunder.
+- Palavra que substitui underline. ex:
+`__version__ ` - Ao invés de dizer "underline, underline version, underline, underline" diria apenas Dunder version.
+
 # Protocolos e Tipos de Dados
 > Classe, categoria, tipo
 
@@ -24,9 +28,5 @@ numero.bit_count() - essa função mostra quantos bits foram utilizados para arm
 métodos que começam com dois underlines (nome do underline é dunder), são chamados de protocolos
 Exemplo: dunder add (__add__)
 
->Compostos
+>Compostos e Tuplas
 - list, range
-
-Palavra Dunder.
-- Palavra que substitui underline. ex:
-`__version__ ` - Ao invés de dizer "underline, underline version, underline, underline" diria apenas Dunder version.
